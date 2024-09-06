@@ -3,7 +3,7 @@ django
 djangorestframework
 requests
 drf-yasg
-setuptools
+setuptools==69.0.3; python_version >= '3.8'
 djangorestframework-simplejwt
 environ
 django-environ
