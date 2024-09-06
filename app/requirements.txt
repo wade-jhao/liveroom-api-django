@@ -1,0 +1,10 @@
+-i https://pypi.python.org/simple
+django
+djangorestframework
+requests
+drf-yasg
+setuptools
+djangorestframework-simplejwt
+environ
+django-environ
+psycopg2-binary
