@@ -9,3 +9,4 @@ environ
 django-environ
 psycopg2-binary
 sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
